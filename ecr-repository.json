@@ -1,0 +1,16 @@
+{
+  "repository": {
+    "repositoryArn": "arn:aws:ecr:us-east-1:590183748699:repository/slade-gh-repo",
+    "registryId": "590183748699",
+    "repositoryName": "slade-gh-repo",
+    "repositoryUri": "590183748699.dkr.ecr.us-east-1.amazonaws.com/slade-gh-repo",
+    "createdAt": "2024-05-03T02:48:53.676000+03:00",
+    "imageTagMutability": "MUTABLE",
+    "imageScanningConfiguration": {
+      "scanOnPush": false
+    },
+    "encryptionConfiguration": {
+      "encryptionType": "AES256"
+    }
+  }
+}
