@@ -1,5 +1,5 @@
 # Pull the latest ruby image
-FROM ruby:latest
+FROM ruby:3.3.1
 
 # Set the working directory
 WORKDIR /app
